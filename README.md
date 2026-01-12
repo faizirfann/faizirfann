@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi👋, I'm Muhammad Faiz Irfan
+
+### I’m a dedicated graphic and multimedia software student focused on learning, experimenting, and building a strong foundation through continuous improvement.
+
+#
+
+###### 📫 How to reach me: muhammadfaizirfan.j@graduate.utm.my
+###### 🌱 I’m currently learning 
+
 
 <!--
 **faizirfann/faizirfann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
