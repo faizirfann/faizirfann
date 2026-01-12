@@ -4,8 +4,8 @@
 
 #
 
-###### 📫 How to reach me: muhammadfaizirfan.j@graduate.utm.my
-###### 🌱 I’m currently learning 
+##### 📫 How to reach me: muhammadfaizirfan.j@graduate.utm.my
+##### 🌱 I’m currently learning 
 
 
 <!--
