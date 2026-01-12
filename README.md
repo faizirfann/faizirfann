@@ -7,6 +7,19 @@
 
 - 🔭 I’m currently working on **c++ programming**
 
+<h3 align="left">Courses:</h3>
+<p align="left">
+
+- SECI1013 DISCRETE STRUCTURE
+
+- SECJ1013 PROGRAMMING TECHNIQUE I
+
+- SECP1513 TECHNOLOGY AND INFORMATION SYSTEM
+
+- SECR1013 DIGITAL LOGIC
+
+- ULRS1032 INTEGRITY AND ANTI-CORRUPTION COURSE
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/faiz-irfan-483b20388/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faiz-irfan-483b20388/" height="30" width="40" /></a>
