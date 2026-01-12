@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faiz Irfan</h1>
-<h3 align="center">A passionate frI’m a dedicated graphic and multimedia software student focused on learning, experimenting, and building a strong foundation through continuous improvement. #ontend developer from India</h3>
+<h3 align="center">I’m a dedicated graphic and multimedia software student focused on learning, experimenting, and building a strong foundation through continuous improvement.</h3>
 
 - 🌱 I’m currently **studying in Bachelor of Computer Science (Graphics and Multimedia Software)**
 
